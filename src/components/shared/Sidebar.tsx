@@ -18,7 +18,7 @@ const Sidebar = () => {
         </Link>
 
         <nav className="sidebar-nav">
-          <SignedIn> {/* this component Only Show if user is Signed in */}
+          <SignedIn>
             <ul className="sidebar-nav_elements">
               {navLinks.slice(0, 6).map((link) => {
                 const isActive = link.route === pathname
@@ -71,7 +71,7 @@ const Sidebar = () => {
             </ul>
           </SignedIn>
 
-          <SignedOut> {/* this component Only Show if user is Signed out */}
+          <SignedOut>
             <Button asChild className="button bg-purple-gradient bg-cover">
               <Link href="/sign-in">Login</Link>
             </Button>

@@ -23,7 +23,7 @@ const MobileNav = () => {
       </Link>
 
       <nav className="flex gap-2">
-        <SignedIn> {/* this component Only Show if user is Signed in */}
+        <SignedIn>
           <UserButton />
 
           <Sheet>
@@ -72,7 +72,7 @@ const MobileNav = () => {
           </Sheet>
         </SignedIn>
 
-        <SignedOut> {/* this component Only Show if user is Signed out */}
+        <SignedOut>
             <Button asChild className="button bg-purple-gradient bg-cover">
               <Link href="/sign-in">Login</Link>
             </Button>

@@ -1,13 +1,9 @@
-import React from "react";
+import React from 'react'
 
-export default function Layout({
-    children,
-  }: Readonly<{
-    children: React.ReactNode;
-  }>) {
-    return (
-      <main className="auth">
-        {children}
-      </main>
-    );
-  }
+const Layout = ({ children }: { children: React.ReactNode }) => {
+  return (
+    <main className="auth">{children}</main>
+  )
+}
+
+export default Layout
