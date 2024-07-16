@@ -28,7 +28,7 @@ export async function getUserById(userId: string) {
 
     if (!user) throw new Error("User not found");
 
-    return JSON.parse(JSON.stringify(user));
+    return JSON.parse(JSON.stringify(user)); // first convert to string then parse to JSON because of '_id' is mongoose objectID type
   } catch (error) {
     handleError(error);
   }
