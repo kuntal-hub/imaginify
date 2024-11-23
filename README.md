@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank">
+    <a href="#" >
       <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/daf9e91b-6342-4e9a-9361-8dc2bd01ce64" alt="Project Banner">
     </a>
   <br />
@@ -27,9 +27,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+5. 🔗 [Links](#links)
 
 ## <a name="introduction">🤖 Introduction</a>
 
