@@ -1,6 +1,9 @@
 <div align="center">
-
-  <h3 align="center">An AI SaaS Platform</h3>
+  <br />
+    <a href="https://youtu.be/Ahwoks_dawU?feature=shared" target="_blank">
+      <img src="https://github.com/sujatagunale/EasyRead/assets/151519281/daf9e91b-6342-4e9a-9361-8dc2bd01ce64" alt="Project Banner">
+    </a>
+  <br />
 
   <div>
     <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
@@ -9,6 +12,13 @@
     <img src="https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logoColor=white&logo=mongodb&color=47A248" alt="mongodb" />
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
+
+  <h3 align="center">An AI SaaS Platform</h3>
+
+   <div align="center">
+    Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. <br>
+    See the project in action <a href="https://imaginify-theta-self.vercel.app/" target="_blank"><b>Here</b></a>
+    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -17,13 +27,13 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-
 ## <a name="introduction">🤖 Introduction</a>
 
-Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. This project can be a guide for your next AI image tool and a boost to your portfolio. 
+Build an AI image SaaS platform that excels in image processing capabilities, integrates a secure payment infrastructure, offers advanced image search functionalities, and supports multiple AI features, including image restoration, recoloring, object removal, generative filling, and background removal. This project can be a guide for your next AI image tool and a boost to your portfolio.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -68,8 +78,7 @@ Build an AI image SaaS platform that excels in image processing capabilities, in
 
 👉 **Responsive UI/UX**: A seamless experience across devices with a user-friendly interface
 
-
-and many more, including code architecture and reusability 
+and many more, including code architecture and reusability
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -140,9 +149,8 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
-
-
-
 ## <a name="links">🔗 Links</a>
 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1uv1zyCjbYBQE9qnwh2snwO0NBgoop5gz/view?usp=sharing)
+
+Final deployment of the project can be found [here](https://imaginify-theta-self.vercel.app)
